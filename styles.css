@@ -1,0 +1,8 @@
+.welcomePage {
+  background-color: rgb(192, 192, 192);
+  box-sizing: border-box;
+}
+img {
+  margin: 200px 270px;
+  border-style: solid 15px rgb(218, 165, 32);
+}
